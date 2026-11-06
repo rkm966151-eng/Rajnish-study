@@ -1,0 +1,6 @@
+{
+  "name": "Rajnish Study",
+  "description": "Premium bilingual educational platform for Indian school, college students, and competitive exam aspirants with quizzes, notes, and study analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
